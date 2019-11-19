@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "Ivan",
+    "lastName": "Ivanov",
+    "id": "123456"
+  },
+  {
+    "firstName": "Sergey",
+    "lastName": "Sergeev",
+    "id": "654321"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Petrov",
+    "id": "678901"
+  },
+  {
+    "firstName": "Sergey",
+    "lastName": "Sidorov",
+    "id": "345127"
+  },
+  {
+    "firstName": "Arnold",
+    "lastName": "Schwarz",
+    "id": "890123"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "id": "456890"
+  }
+]
